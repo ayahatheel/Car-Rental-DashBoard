@@ -1,0 +1,16 @@
+.edit-car-form {
+    padding: 20px;
+    background-color: #f9f9f9;
+    font-family: 'Tajawal', sans-serif;
+    direction: rtl; /* Right-to-left text direction */
+    text-align: right; /* Align text to the right */
+  }
+  
+  .edit-car-form .MuiTextField-root {
+    margin-bottom: 20px;
+  }
+  
+  .edit-car-form .MuiButton-root {
+    margin-top: 20px;
+  }
+  

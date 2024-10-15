@@ -1,0 +1,53 @@
+.car-details {
+  padding: 20px;
+  background-color: #f9f9f9;
+  font-family: 'Tajawal', sans-serif;
+  text-align: right; /* Align text to the right */
+  direction: rtl; /* Right-to-left text direction */
+}
+
+.car-images-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.car-image {
+  width: 48%;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.category, .car-name {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.detail-item {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+
+.detail-item svg {
+  margin-left: 10px;
+}
+
+.features-title {
+  margin-top: 20px;
+}
+
+.rental-details {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.car-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}

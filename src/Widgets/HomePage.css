@@ -1,0 +1,19 @@
+.home-page {
+    padding: 20px;
+    background-color: #f9f9f9;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 20px;
+    justify-items: center; /* Center items horizontally */
+  }
+  
+  .page-title {
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .car-list {
+    display: contents;
+  }
+  

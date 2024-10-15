@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Tajawal', sans-serif !important; 
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+
+p, h1, h2, h3, h4, h5, h6, input, button, label, textarea  {
+  font-family: 'Tajawal', sans-serif !important;
+}
