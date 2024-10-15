@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# 🚗 Rental Dashboard for IraqiWheels
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Rental Dashboard of **IraqiWheels**! This application is designed to manage car rental requests seamlessly while providing a user-friendly interface. Built with **React.js** and **MUI**, this dashboard allows you to efficiently handle CRUD operations and approve rental requests from the main website.
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- **CRUD Operations**: Create, Read, Update, and Delete cars for rent to the main website.
+- **Approval System**: Approve or reject rental requests directly from the dashboard.
+- **Responsive Design**: Optimized for all devices, ensuring a smooth experience on mobile and desktop.
+- **Intuitive Calendar Integration**: Visualize rental availability with the integrated calendar component.
+- **User-Friendly Interface**: Built with Material-UI for a sleek and modern look.
+- **Xano Integration**: Utilizes Xano for backend services and data management.
 
-### `npm start`
+## 📦 Libraries Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project leverages a variety of powerful libraries to enhance functionality and user experience:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **@emotion/react**: "^11.11.4"
+- **@emotion/styled**: "^11.11.5"
+- **@mui/icons-material**: "^5.15.19"
+- **@mui/material**: "^5.15.19"
+- **@testing-library/jest-dom**: "^5.17.0"
+- **@testing-library/react**: "^13.4.0"
+- **@testing-library/user-event**: "^13.5.0"
+- **axios**: "^1.7.2"
+- **moment**: "^2.30.1"
+- **react**: "^18.3.1"
+- **react-big-calendar**: "^1.13.1"
+- **react-dom**: "^18.3.1"
+- **react-router-dom**: "^6.23.1"
+- **react-scripts**: "5.0.1"
+- **web-vitals**: "^2.1.4"
 
-### `npm test`
+## 🛠️ Future Enhancements
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🌍 **Multi-language Support**: Expanding to offer car rentals in multiple languages.
+- 💳 **Payment Integration**: Integrate payment gateways for seamless online bookings.
 
-### `npm run build`
+## 📞 Contact
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For any questions or suggestions, feel free to reach out via email at [ayah.atheel@gmail.com](mailto:ayah.atheel@gmail.com). I would love to hear from you!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Happy renting! 🚙💨
